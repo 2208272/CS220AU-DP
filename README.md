@@ -29,7 +29,7 @@ Instructions on using this GitHub repository as a template for your assignment w
 
 ## Log
 *
-* 2023-10-27 LAB,...
+* 2023-10-27 LAB, broading understending about Project Management, I disoverd more deteils that will help me with my own project.
 * 2023-10-24 review of previous year works, getting extra inspiration and understanding about assessment
 * 2023-10-20 Creation of my own website. Introduction to the GitHub and our own profiles. 
 * 2023-10-17 I get to watch all the videos that we havent coverd on the Lab. I took notes and develop them using Kris's notes.
