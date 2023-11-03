@@ -25,7 +25,7 @@ Instructions on using this GitHub repository as a template for your assignment w
 1. Get a better understanding of why setting up my own website being a student could develop my profesional identity.
 2. hemminway style. Discover on ChatGPT
 3. Review idea: compare similar news interpritation in Ukraine and russia
-4. 
+4. create list with usefull AI sources, for different tasks.
 
 ## Log
 *
