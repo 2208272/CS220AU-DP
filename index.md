@@ -14,6 +14,9 @@ Below you see an example of embedding an image that is found in this repository'
 
 ![Plain VR map](assets/img/vr-map-plain.svg)
 
+
+![news](https://github.com/2208272/CS220AU-DP/blob/main/assets/img/anna-keibalo-yOvnLzIb8lM-unsplash.jpg)
+
 Below you see an example of embedding an image that is found in another repository:
 
 ![](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-chien.jpg). 
