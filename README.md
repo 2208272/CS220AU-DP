@@ -29,6 +29,7 @@ Instructions on using this GitHub repository as a template for your assignment w
 
 ## Log
 *
+* 2023-11-17 LAB. 
 * 2023-11-03 LAB. Discussion of Content Production. Inspiration by the Kris's works and how he uses different sources.
 * 2023-11-02 Discovering different AI that might help with my Portfolio. AI for rewriting, generating images, grammar check.
 * 2023-10-27 LAB, broading understending about Project Management, I disoverd more deteils that will help me with my own project.
