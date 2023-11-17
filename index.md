@@ -1,4 +1,4 @@
-# How misinformation/propaganda are linked to existential risk?
+# How are misinformation/propaganda are linked to existential risk?
 17 Nov 2023
 
 Keywords:
