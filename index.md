@@ -1,5 +1,8 @@
-# How misinformation/propaganda are linked to existencial risk?
-Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
+# How misinformation/propaganda are linked to existential risk?
+17 Nov 2023
+
+Keywords:
+existential risk, misinformation, propaganda, digital identities, Ukraine, Russia, news, 
 
 ## Hyperlinks
 [This](checklist.md) is an internal link to another page on your site. 
