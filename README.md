@@ -30,6 +30,7 @@ Instructions on using this GitHub repository as a template for your assignment w
 6. 
 
 ## Log
+* 2023-12-01 LAB.
 * 2023-11-25 Reading week. searching different sources that might be helpfull.
 * 2023-11-20 draft for my topic and how this effects our digital world. created main points.
 * 2023-11-17 LAB. We created topic and main structure. 
