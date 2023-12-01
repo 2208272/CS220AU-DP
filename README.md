@@ -23,13 +23,16 @@ Instructions on using this GitHub repository as a template for your assignment w
 
 ## Tasks
 1. Get a better understanding of why setting up my own website being a student could develop my profesional identity.
-2. hemminway style. Discover on ChatGPT
+2. hemmingway style. Discover on ChatGPT
 3. Review idea: compare similar news interpritation in Ukraine and russia
 4. create list with usefull AI sources, for different tasks.
+5. create my own reading list
+6. 
 
 ## Log
-*
-* 2023-11-17 LAB. 
+* 2023-11-25 Reading week. searching different sources that might be helpfull.
+* 2023-11-20 draft for my topic and how this effects our digital world. created main points.
+* 2023-11-17 LAB. We created topic and main structure. 
 * 2023-11-03 LAB. Discussion of Content Production. Inspiration by the Kris's works and how he uses different sources.
 * 2023-11-02 Discovering different AI that might help with my Portfolio. AI for rewriting, generating images, grammar check.
 * 2023-10-27 LAB, broading understending about Project Management, I disoverd more deteils that will help me with my own project.
