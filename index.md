@@ -15,6 +15,7 @@ As we embark on this exploration, it is essential to recognize the interconnecte
 
 The digital landscape has ushered in an era where information travels unprecedentedly, shaping public discourse and perceptions for both visitors and residents on the platform. Zubiaga et al. (2016) show that the velocity of information dissemination on platforms like Twitter has increased substantially, contributing to the swift propagation of accurate and misleading content. While facilitating the spread of knowledge, this speed also amplifies the challenges of filtering misinformation.
 
+![](asset
 
 **Influence of Social Media Platforms**
 
