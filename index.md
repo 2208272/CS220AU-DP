@@ -4,6 +4,7 @@
 Keywords:
 existential risk, misinformation, propaganda, fake news, Russian war in Ukraine
 
+![news, laptop and phone](assets/firmbee-com-SpVHcbuKi6E-unsplash.jpg)
 ## Introduction
 
 In the rapidly evolving digital era, the dissemination of information has reached unprecedented levels with the advent of social media and online platforms. This surge, however, has not only brought about the democratization of information but has also given rise to another side of the situation - fake news, propaganda, and misinformation. This paper delves into the profound impact of these digital phenomena on societies, exploring their potential to induce existential crises. Understanding the consequences becomes paramount as we navigate an era where information can be weaponized.
