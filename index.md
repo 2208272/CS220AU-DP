@@ -78,14 +78,14 @@ In conclusion, a comprehensive approach that combines education, technology, and
 
 ## References
 
-1. Zubiaga, A., Liakata, M., Procter, R., Wong Sak Hoi, G., & Tolmie, P. (2016). Analysing how people orient to and spread rumours in social media by looking at conversational threads. PloS one, 11(3), https://doi.org/10.1371/journal.pone.0150989
-2. Pennycook, G., Bear, A., Collins, E. T., & Rand, D. G. (2020). The implied truth effect: Attaching warnings to a subset of fake news headlines increases perceived accuracy of headlines without warnings. Management science, 66(11), 4944-4957. https://doi.org/10.1287/mnsc.2019.3478
-3. Vosoughi, S., Roy, D., & Aral, S. (2018). The spread of true and false news online. science, 359(6380), 1146-1151.DOI: 10.1126/science.aap9559
-4. Lewandowsky, S., Ecker, U. K., Seifert, C. M., Schwarz, N., & Cook, J. (2012). Misinformation and its correction: Continued influence and successful debiasing. Psychological science in the public interest, 13(3), 106-131. https://doi.org/10.1177/1529100612451018
-5. Van Bavel, J. J., Cichocka, A., Capraro, V., Sjåstad, H., Nezlek, J. B., Pavlović, T., ... & Jørgensen, F. J. (2022). National identity predicts public health support during a global pandemic. Nature communications, 13(1), 517. https://doi.org/10.1038/s41467-021-27668-9
-6. Buchanan, B., Lohn, A., Musser, M., & Sedova, K. (2021). Truth, lies, and automation. Center for Security and Emerging Technology, 1(1), 2.
-7. Tim Beal (2022) Imperialism’s Handmaidens: Cultural Hegemony and Information Warfare, International Critical Thought, 12:3, 399-425, DOI: 10.1080/21598282.2022.2098510
-8. Nigel Inkster (2016) Information Warfare and the US Presidential Election, Survival, 58:5, 23-32, DOI: 10.1080/00396338.2016.1231527
-9. Wardle, C., & Derakhshan, H. (2017). Information disorder: Toward an interdisciplinary framework for research and policymaking (Vol. 27, pp. 1-107). Strasbourg: Council of Europe.
-10. Allcott, H., & Gentzkow, M. (2017). Social media and fake news in the 2016 election. Journal of economic perspectives, 31(2), 211-236.DOI: 10.1257/jep.31.2.211
-11. Nyhan, B., & Reifler, J. (2010). When corrections fail: The persistence of political misperceptions. Political Behavior, 32(2), 303-330.https://doi.org/10.1007/s11109-010-9112-2
+1. Allcott, H., & Gentzkow, M. (2017). Social media and fake news in the 2016 election. Journal of economic perspectives, 31(2), 211-236.DOI: 10.1257/jep.31.2.211
+2.  Buchanan, B., Lohn, A., Musser, M., & Sedova, K. (2021). Truth, lies, and automation. Center for Security and Emerging Technology, 1(1), 2.
+3.  Lewandowsky, S., Ecker, U. K., Seifert, C. M., Schwarz, N., & Cook, J. (2012). Misinformation and its correction: Continued influence and successful debiasing. Psychological science in the public interest, 13(3), 106-131. https://doi.org/10.1177/1529100612451018
+4.   Nigel Inkster (2016) Information Warfare and the US Presidential Election, Survival, 58:5, 23-32, DOI: 10.1080/00396338.2016.1231527
+5.   Nyhan, B., & Reifler, J. (2010). When corrections fail: The persistence of political misperceptions. Political Behavior, 32(2), 303-330.https://doi.org/10.1007/s11109-010-9112-2
+6.   Pennycook, G., Bear, A., Collins, E. T., & Rand, D. G. (2020). The implied truth effect: Attaching warnings to a subset of fake news headlines increases perceived accuracy of headlines without warnings. Management science, 66(11), 4944-4957. https://doi.org/10.1287/mnsc.2019.3478
+7.   Tim Beal (2022) Imperialism’s Handmaidens: Cultural Hegemony and Information Warfare, International Critical Thought, 12:3, 399-425, DOI: 10.1080/21598282.2022.2098510
+8.   Van Bavel, J. J., Cichocka, A., Capraro, V., Sjåstad, H., Nezlek, J. B., Pavlović, T., ... & Jørgensen, F. J. (2022). National identity predicts public health support during a global pandemic. Nature communications, 13(1), 517. https://doi.org/10.1038/s41467-021-27668-9
+9. Vosoughi, S., Roy, D., & Aral, S. (2018). The spread of true and false news online. science, 359(6380), 1146-1151.DOI: 10.1126/science.aap9559
+10. Wardle, C., & Derakhshan, H. (2017). Information disorder: Toward an interdisciplinary framework for research and policymaking (Vol. 27, pp. 1-107). Strasbourg: Council of Europe.
+11. Zubiaga, A., Liakata, M., Procter, R., Wong Sak Hoi, G., & Tolmie, P. (2016). Analysing how people orient to and spread rumours in social media by looking at conversational threads. PloS one, 11(3), https://doi.org/10.1371/journal.pone.0150989
