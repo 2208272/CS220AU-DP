@@ -8,7 +8,11 @@ existential risk, misinformation, propaganda, fake news, Russian war in Ukraine,
 ## Introduction
 
 In the rapidly evolving digital era, the dissemination of information has reached unprecedented levels with the advent of social media and online platforms. This surge, however, has not only brought about the democratization of information but has also given rise to another side of the situation - fake news, propaganda, and misinformation. This paper delves into the profound impact of these digital phenomena on societies, exploring their potential to induce existential crises. Understanding the consequences becomes paramount as we navigate an era where information can be weaponized.
+
+
 The significance of this study extends beyond theoretical concerns, finding practical relevance in recent geopolitical events. One such poignant example is the Russian war in Ukraine, where the use of fake news and propaganda played a pivotal role in shaping perceptions and influencing the course of the conflict. By scrutinizing this case, we aim to unravel how misinformation can be employed as a power tool, impacting not only individuals' cognitive landscapes but also the fabric of international relations.
+
+
 As we embark on this exploration, it is essential to recognize the interconnectedness of the digital world and its real-world ramifications. The implications of fake news and misinformation are not confined to the realm of information but can potentially disrupt the foundations of trust, democracy, and peace. By comprehending the multifaceted nature of these issues, we can better equip ourselves to address the challenges posed by the information age and safeguard the integrity of our global society.
 
 ## The Digital Landscape
