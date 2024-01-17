@@ -2,9 +2,9 @@
 This is a digital portfolio of a student: 2208272. 
 On this page can be foung the peer-assessment of work that I marked, the feedback i recived fron another student, self-assessment, Tasks and Log lists
 
-## Peer-assessment
+## Peer-assessment (1)
 
-This is a feedback for [this work.](https://2314772.github.io/CS220AU-DP/#personality-types)
+This is a feedback I did for [this work.](https://2314772.github.io/CS220AU-DP/#personality-types)
 
 > "This article has great usage of real-world data, and the content is highly relevant. The website's structure is very clear, and effective communication of ideas and focus of each section helps follow the logical flow. It has an excellent overall view; it's nice that a lot of images were used, and graphs make it easier to follow the information given. There are a good amount of references to back up points. And the last sentence of this work makes a good ending.
 >
@@ -24,8 +24,30 @@ And in references: change places of Worldometer and Van Hoof papers.
 | 3.1       |     |     |     |     |  o  |
 
 
+## Peer-assessment (2)
+
+This is a feedback I recived.
+
+
+| Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
+|-----------|:---:|:---:|:---:|:---:|:---:|
+| 1.1       |     |     |     |     |  o  |
+| 1.2       |     |     |     |     |  o  |
+| 2.1       |     |     |     |     |  o  |
+| 2.2       |     |     |     |     |  o  |
+| 3.1       |     |     |     |     |  o  |
+
+
 ## Self-assessment
 
+
+| Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
+|-----------|:---:|:---:|:---:|:---:|:---:|
+| 1.1       |     |     |     |     |  o  |
+| 1.2       |     |     |     |     |  o  |
+| 2.1       |     |     |     |     |  o  |
+| 2.2       |     |     |     |     |  o  |
+| 3.1       |     |     |     |     |  o  |
 
 ## Tasks
 1. peer-assessnemt
