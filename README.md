@@ -1,36 +1,21 @@
 # CS220AU Digital Portfolio Template
 
-## Overview
-The goal of this GitHub repository is to serves as a template for the [CS220AU](https://navigatingthedigitalworld.com/docs/cs220au) assignment. It demonstrates minimalistic approaches to:
-
-- project management using this `README.md` file, organized under the Overview, Tasks, and Log headings
-- web hosting through [GitHub Pages](https://pages.github.com/)
-- web design with [Markdown language](https://guides.github.com/features/mastering-markdown/)
-- self- and peer-assessment via the `assessment.md` and `checklist.md` files
-
-The URL for the website can be located in the sidebar, under the 'About' section. The homepage content is sourced from the `index.md` file.
-
-### Portfolio Items
-Your submitted portfolio should include the following components, along with their respective contribution to your overall mark:
-
-1. **website** (80%): explores your chosen research question across one or multiple webpages
-2. **self- and peer-assessment** (10%): utilizes the `assessment.md` file
-3. **portfolio overview** (10%): provides a succinct description of your portfolio, along with a list of tasks to do (Tasks) and those already completed (Log) in this `README.md` file
-
-Once the above items are completed, fill out the `checklist.md` file, download it, and submit on FASER.
-
-Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
-
 ## Tasks
-1. Get a better understanding of why setting up my own website being a student could develop my profesional identity.
-2. hemmingway style. Discover on ChatGPT
-3. Review idea: compare similar news interpritation in Ukraine and russia
-4. create list with usefull AI sources, for different tasks.
-5. create my own reading list
-6. 
+1. peer-assessnemt
+2. self-assessment
+3. submission via Faser
 
 ## Log
-* 2023-12-01 LAB.
+* 2024-01-18 submission in Faser
+* 2024-01-17 self-assessment.
+* 2024-01-16 final review and peer-assessment.
+* 2024-01-10 Writting conclusion and making references. 
+* 2023-12-23 Introduction section and finding relevant photo to use + creation of the vr map
+* 2023-12-20 Making notes from articles. Writing te body of my work. 
+* 2023-12-15 Creating the draft of my article and making a list of reaserch papers that I want to use
+* 2023-12-10 Reading of the materials. Searching for relevant research
+* 2023-12-06 Connecting with another student about peer-assessment
+* 2023-12-01 LAB. final information about content in our projects
 * 2023-11-25 Reading week. searching different sources that might be helpfull.
 * 2023-11-20 draft for my topic and how this effects our digital world. created main points.
 * 2023-11-17 LAB. We created topic and main structure. 
