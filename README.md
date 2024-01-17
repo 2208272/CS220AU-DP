@@ -1,6 +1,6 @@
 # CS220AU Digital Portfolio 
-This is a digiyal portfolio of a student: 2208272. 
-
+This is a digital portfolio of a student: 2208272. 
+On this page can be foung the peer-assessment of work that I marked, the feedback i recived fron another student, self-assessment, Tasks and Log lists
 
 ## Peer-assessment
 
@@ -14,6 +14,14 @@ And in references: change places of Worldometer and Van Hoof papers.
 >
 > Overall, it is a well-researched and thoughtful essay. With some refinement in the introduction, grammar, and visual aids, the work could be even more impactful."
 
+
+| Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
+|-----------|:---:|:---:|:---:|:---:|:---:|
+| 1.1       |     |     |     |     |  o  |
+| 1.2       |     |     |     |     |  o  |
+| 2.1       |     |     |     |     |  o  |
+| 2.2       |     |     |     |     |  o  |
+| 3.1       |     |     |     |     |  o  |
 
 
 ## Self-assessment
