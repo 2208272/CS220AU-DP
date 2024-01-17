@@ -1,5 +1,5 @@
 # Understanding the Impact of Fake News, Propaganda, and Misinformation on Societies and Geopolitical Conflicts
-17 Nov 2023
+17 Jan 2024
 
 Keywords:
 existential risk, misinformation, propaganda, fake news, Russian war in Ukraine
