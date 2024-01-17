@@ -1,7 +1,20 @@
-# CS220AU Digital Portfolio Template
+# CS220AU Digital Portfolio 
+This is a digiyal portfolio of a student: 2208272. 
 
 
 ## Peer-assessment
+
+This is a feedback for [this work.](https://2314772.github.io/CS220AU-DP/#personality-types)
+
+> "This article has great usage of real-world data, and the content is highly relevant. The website's structure is very clear, and effective communication of ideas and focus of each section helps follow the logical flow. It has an excellent overall view; it's nice that a lot of images were used, and graphs make it easier to follow the information given. There are a good amount of references to back up points. And the last sentence of this work makes a good ending.
+>
+> It could benefit from a bit more elaboration on the topic of personality types and their connection to the COVID-19 pandemic. 
+And I saw that it might be good to change the reference format (digital identities paragraph): David White (White & Le Cornu, 2017) - it's better to use both names before brackets and only the year in them.
+And in references: change places of Worldometer and Van Hoof papers.
+>
+> Overall, it is a well-researched and thoughtful essay. With some refinement in the introduction, grammar, and visual aids, the work could be even more impactful."
+
+
 
 ## Self-assessment
 
