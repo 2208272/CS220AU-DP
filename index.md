@@ -1,8 +1,8 @@
 # Understanding the Impact of Fake News, Propaganda, and Misinformation on Societies and Geopolitical Conflicts
 17 Jan 2024
 
-Keywords:
-existential risk, misinformation, propaganda, fake news, Russian war in Ukraine
+**Keywords:**
+existential risk, misinformation, propaganda, fake news, Russian war in Ukraine, digital identity, social media
 
 ![news, laptop and phone](assets/firmbee-com-SpVHcbuKi6E-unsplash.jpg)
 ## Introduction
