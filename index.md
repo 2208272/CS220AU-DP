@@ -22,6 +22,10 @@ The digital landscape has ushered in an era where information travels unpreceden
 
 ![](assets/vr-map)
 
+
+This map is informed by the framework established by White and Le Cornu (2017), who introduced the concept of "Visitors and Residents" to understand individuals' engagement with digital spaces. In the context of this paper, the VR map serves as a dynamic tool to illustrate that regardless of one's mode—be it as a visitor or resident, engaging personally or institutionally—all individuals continually perceive information within the digital realm. It prompts us to recognize the necessity of critical thinking in navigating the digital landscape. Whether in the role of a passive visitor or an active resident, individuals are consistently challenged to exercise discernment, emphasizing the paramount importance of cultivating critical digital literacy.
+
+
 **Influence of Social Media Platforms**
 
 Research by Pennycook et al.  (2020) emphasizes the outsized role of social media platforms in amplifying the impact of misinformation. These platforms, designed to connect people and ideas, have inadvertently become conduits for the rapid spread of fake news. The algorithmic structures of platforms like Facebook and Twitter often prioritize engaging content over accuracy, inadvertently fostering an environment where misinformation can thrive.
@@ -45,9 +49,11 @@ As these studies underscore, the effects of fake news and misinformation extend 
 
 The war Russia started in Ukraine has not only been fought on the battlefield but also in the digital domain. Studies such as Buchanan et al. (2021) provide a comprehensive overview of the complex geopolitical factors at play, emphasizing information warfare's role in shaping the conflict's narrative. This case study becomes a poignant illustration of the strategic use of fake news and propaganda.
 
+![war](assets/levi-meir-clancy-LheHIV3XpGM-unsplash.jpg)
 
 **Examination of Russia's Use of Fake News and Propaganda**
 Beal (2022) delves into Russia's systematic employment of disinformation campaigns, revealing a sophisticated strategy to sow discord and shape global perceptions. The Kremlin's use of state-sponsored media outlets and social media manipulation underscores the intentional weaponization of information to achieve strategic objectives, both domestically and internationally.
+
 **Examples of Misinformation Campaigns**
 Instances of misinformation abound in the context of the Russian war in Ukraine. The dissection of specific campaigns, as detailed in studies by Inkster (2016) reveals the deliberate spread of false narratives, ranging from fabricated events to manipulated images. These campaigns targeted domestic audiences and sought to influence the international community's perception of the conflict.
 
@@ -88,4 +94,5 @@ In conclusion, a comprehensive approach that combines education, technology, and
 8.   Van Bavel, J. J., Cichocka, A., Capraro, V., Sjåstad, H., Nezlek, J. B., Pavlović, T., ... & Jørgensen, F. J. (2022). National identity predicts public health support during a global pandemic. Nature communications, 13(1), 517. https://doi.org/10.1038/s41467-021-27668-9
 9. Vosoughi, S., Roy, D., & Aral, S. (2018). The spread of true and false news online. science, 359(6380), 1146-1151.DOI: 10.1126/science.aap9559
 10. Wardle, C., & Derakhshan, H. (2017). Information disorder: Toward an interdisciplinary framework for research and policymaking (Vol. 27, pp. 1-107). Strasbourg: Council of Europe.
-11. Zubiaga, A., Liakata, M., Procter, R., Wong Sak Hoi, G., & Tolmie, P. (2016). Analysing how people orient to and spread rumours in social media by looking at conversational threads. PloS one, 11(3), https://doi.org/10.1371/journal.pone.0150989
+11. White, D. S., & Le Cornu, A. (2017). Using ‘Visitors and Residents’ to visualise digital practices. First Monday.
+12. Zubiaga, A., Liakata, M., Procter, R., Wong Sak Hoi, G., & Tolmie, P. (2016). Analysing how people orient to and spread rumours in social media by looking at conversational threads. PloS one, 11(3), https://doi.org/10.1371/journal.pone.0150989
