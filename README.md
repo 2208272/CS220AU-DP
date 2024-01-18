@@ -2,32 +2,16 @@
 This is a digital portfolio of a student: 2208272. 
 On this page can be foung the peer-assessment of work that I marked, the feedback i recived fron another student, self-assessment, Tasks and Log lists
 
-## Peer-assessment (1)
 
-This is a feedback I did for [this work.](https://2314772.github.io/CS220AU-DP/#personality-types)
-
-> "This article has great usage of real-world data, and the content is highly relevant. The website's structure is very clear, and effective communication of ideas and focus of each section helps follow the logical flow. It has an excellent overall view; it's nice that a lot of images were used, and graphs make it easier to follow the information given. There are a good amount of references to back up points. And the last sentence of this work makes a good ending.
->
-> It could benefit from a bit more elaboration on the topic of personality types and their connection to the COVID-19 pandemic. 
-And I saw that it might be good to change the reference format (digital identities paragraph): David White (White & Le Cornu, 2017) - it's better to use both names before brackets and only the year in them.
-And in references: change places of Worldometer and Van Hoof papers.
->
-> Overall, it is a well-researched and thoughtful essay. With some refinement in the introduction, grammar, and visual aids, the work could be even more impactful."
-
-
-| Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
-|-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |     |     |  o  |
-| 1.2       |     |     |     |     |  o  |
-| 2.1       |     |     |     |     |  o  |
-| 2.2       |     |     |     |     |  o  |
-| 3.1       |     |     |     |     |  o  |
-
-
-## Peer-assessment (2)
+## Peer-assessment 
 
 This is a feedback I recived.
 
+> "Generally, there is a very high level of attention paid to detail across all parts of this essay. All parts addressed are to a very good academic standard and there are many relevant and precise references to key related literature, and these are explored in great depth. Your analysis demonstrates a strong grasp of the subject matter and your ideas are also effectively articulated to the reader. Your use of evidence and research to support your arguments is particularly effective, and adds a further layer of depth as well as credibility to your response.
+>
+> Your ability to take comprehensive and organized notes is very evident in this piece, and allows for a well-structured essay to be written. Your website is also very well-designed and aesthetic to the eye. You could potentially add another image further down in the article (maybe between ‘Case Study: Russian War in Ukraine’ and ‘The Role in Exacerbating Existential Crisis‘) in order to break up the prose so it isn’t too overwhelming for the reader. Your time management skills are apparent in terms of maximising productivity, and have helped you to create a strong argument and assisting webpage.
+>
+> It may be beneficial to reference White and Le Cornu (2017) and add a couple of sentences of explanation about your VR map, and why it’s been included in your essay. (eg. creating direct links between propaganda and war, or  explaining in further detail the wider impact). This may provide more explicit connections between your ideas and subsequently lead to a more seamless narrative being created. But overall, you’ve written a very strong essay with lots of intricate depth, and have communicated your messages meaningfully."
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
