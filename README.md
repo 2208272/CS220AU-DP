@@ -24,6 +24,11 @@ This is a feedback I recived.
 
 ## Self-assessment
 
+> I think my work is complete with interesting sources—a lot of scientific evidence to back up points. The synthesis of these sources helps build a comprehensive understanding of the impact of fake news, propaganda, and misinformation on societies and geopolitical conflicts. The integration of real-world examples, such as the Russian war in Ukraine, further enhances the practical application of theoretical knowledge.
+>
+> The logic applied in presenting the content is strong. The essay has a clear structure, leading the reader through a well-defined narrative. Also, visually engaging elements were used to support the context of the text.
+>
+> While the language is generally straightforward, it might be useful to make the content more engaging. And maybe I need more practice to improve the flow between paragraphs by incorporating transition sentences. This might help guide the reader through the logical progression of ideas, making the narrative smoother and more cohesive.
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
